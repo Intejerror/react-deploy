@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.f84b39a5.css",
+    "main.js": "/react-deploy/static/js/main.99553cdd.js",
+    "static/media/background-cover.png": "/react-deploy/static/media/background-cover.09d3ae035a3ce0a9e519.png",
+    "static/media/background.mp4": "/react-deploy/static/media/background.f024a197f720b60c91cc.mp4",
+    "static/media/bg.png": "/react-deploy/static/media/bg.0f5a8e2e805f8dedbc47.png",
+    "static/media/background.png": "/react-deploy/static/media/background.e15319be06dc989b0da3.png",
+    "static/media/Montserrat-Regular.ttf": "/react-deploy/static/media/Montserrat-Regular.2a2d37bf7680d86811db.ttf",
+    "static/media/Montserrat-Bold.ttf": "/react-deploy/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
+    "static/media/Montserrat-Medium.ttf": "/react-deploy/static/media/Montserrat-Medium.647f0e61af3a76a138c3.ttf",
+    "static/media/tapes.png": "/react-deploy/static/media/tapes.c5f49edd819afbd4f8da.png",
+    "static/media/Montserrat-Bold.woff": "/react-deploy/static/media/Montserrat-Bold.ed9991a76929dd81cf63.woff",
+    "static/media/Montserrat-Regular.woff": "/react-deploy/static/media/Montserrat-Regular.c80fbfd6dd43d62ea860.woff",
+    "static/media/Montserrat-Medium.woff": "/react-deploy/static/media/Montserrat-Medium.377d38dca9d30c6d52d9.woff",
+    "static/media/sign.png": "/react-deploy/static/media/sign.8fc8b8405bbef29273e1.png",
+    "static/media/Resume`.pdf": "/react-deploy/static/media/Resume`.217f1cf6b07f0b25b8ec.pdf",
+    "index.html": "/react-deploy/index.html",
+    "main.f84b39a5.css.map": "/react-deploy/static/css/main.f84b39a5.css.map",
+    "main.99553cdd.js.map": "/react-deploy/static/js/main.99553cdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f84b39a5.css",
+    "static/js/main.99553cdd.js"
+  ]
+}
